@@ -1,0 +1,1 @@
+{"name":"Universal Downloader","short_name":"Downloader","description":"Download direct-access files you are authorized to save.","start_url":"/","display":"standalone","background_color":"#f8f5ff","theme_color":"#7652b5","icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
